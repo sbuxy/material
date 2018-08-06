@@ -20,22 +20,22 @@ Monday 11.00-11.45 (tba)
 
 ## Schedule
 
-| Date  | Lecturer | Topic | JC1 | JC2 
-| --- | --- | --- | --- | --- | 
-| 17.09.2018  | Mark + Hubert  | admin; mol. bio. basics; R markdown | | | 
-| 24.09.2018  | Hubert  | NGS intro; exploratory data analysis | | | 
-| 01.10.2018  | Mark + Hubert  | interactive technology/statistics session  | | | 
-| 08.10.2018  | Hubert  | mapping  | | | 
-| 15.10.2018  | Mark  | limma + friends   | | | 
-| 22.10.2018  | Hubert  | RNA-seq quantification   | | | 
-| 29.10.2018  | Charlotte  | hands-on session #1: RNA-seq  | X | X | 
-| 05.11.2018  | Mark  | edgeR+friends 1 | |  | 
-| 12.11.2018  | Mark  | edgeR+friends 2  |  |  | 
-| 19.11.2018  | Mark  | single-cell  |  |  | 
-| 26.11.2018  | Lukas  | hands-on session #2: cytometry  | X | X | 
-| 03.12.2018  | Mark  |   | | | 
-| 10.12.2018  | Hubert  | classification  |  |  | 
-| 17.12.2018  | Mark  | hands-on session #2: single-cell RNA-seq  | X | X | 
+| Date  | Lecturer | Exercise | Topic | JC1 | JC2 
+| --- | --- | --- | --- | --- | --- | 
+| 17.09.2018  | Mark + Hubert  | R markdown; git(hub) | admin; mol. bio. basics | | | 
+| 24.09.2018  | Hubert | EDA in R | NGS intro; exploratory data analysis | | | 
+| 01.10.2018  | Mark + Hubert | group exercise: technology pull request | interactive technology/statistics session  | | | 
+| 08.10.2018  | Hubert | Rsubread | mapping  | | | 
+| 15.10.2018  | Mark | linear model simulation + design matrices | limma + friends   | | | 
+| 22.10.2018  | Hubert | RSEM | RNA-seq quantification   | | | 
+| 29.10.2018  | Charlotte | FASTQC/Salmon/etc. | hands-on session #1: RNA-seq  | X | X | 
+| 05.11.2018  | Mark | basic edgeR/voom | edgeR+friends 1 | |  | 
+| 12.11.2018  | Mark | GLM/DEXSeq | edgeR+friends 2  |  |  | 
+| 19.11.2018  | Mark | conquer | single-cell dim. reduction + clustering; FDR  |  |  | 
+| 26.11.2018  | Lukas | cytof null comparison | hands-on session #2: cytometry  | X | X | 
+| 03.12.2018  | Hubert | MLInterfaces | classification  |  |  | 
+| 10.12.2018  | Mark | segmentation, peak finding | loose ends: HMM, EM, robustness   | | | 
+| 17.12.2018  | Mark | full scRNA-seq pipeline | hands-on session #3: single-cell RNA-seq  | X | X | 
 
 
 ## Useful Links
