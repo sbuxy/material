@@ -22,20 +22,20 @@ Monday 11.00-11.45 (tba)
 
 | Date  | Lecturer | Topic | JC1 | JC2 
 | --- | --- | --- | --- | --- | 
-| 17.09.2018  | Mark  | admin, mol. biology basics, R markdown | | | 
+| 17.09.2018  | Mark + Hubert  | admin; mol. bio. basics; R markdown | | | 
 | 24.09.2018  | Hubert  | NGS intro; exploratory data analysis | | | 
-| 01.10.2018  | Mark + Hubert  | interactive technology session  | | | 
+| 01.10.2018  | Mark + Hubert  | interactive technology/statistics session  | | | 
 | 08.10.2018  | Hubert  | mapping  | | | 
-| 15.10.2018  | Mark  | limma 1   | | | 
-| 22.10.2018  | Mark  | limma 2  | | | 
-| 29.10.2018  | Hubert  | RNA-seq quantification   | | | 
+| 15.10.2018  | Mark  | limma + friends   | | | 
+| 22.10.2018  | Hubert  | RNA-seq quantification   | | | 
+| 29.10.2018  | Charlotte  | hands-on session #1: RNA-seq  | X | X | 
 | 05.11.2018  | Mark  | edgeR+friends 1 | |  | 
-| 12.11.2018  | Charlotte  | hands-on session #1: RNA-seq  | X | X | 
-| 19.11.2018  | Mark  | edgeR+friends 2  |  |  | 
-| 26.11.2018  | Hubert  | classification  |  |  | 
-| 03.12.2018  | Mark  | single-cell  |  |  | 
-| 10.12.2018  | Lukas  | hands-on session #2: mass cytometry  | X | X | 
-| 17.12.2018  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  |  |  | 
+| 12.11.2018  | Mark  | edgeR+friends 2  |  |  | 
+| 19.11.2018  | Mark  | single-cell  |  |  | 
+| 26.11.2018  | Lukas  | hands-on session #2: cytometry  | X | X | 
+| 03.12.2018  | Mark  |   | | | 
+| 10.12.2018  | Hubert  | classification  |  |  | 
+| 17.12.2018  | Mark  | hands-on session #2: single-cell RNA-seq  | X | X | 
 
 
 ## Useful Links
