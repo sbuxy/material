@@ -9,7 +9,7 @@ Monday 11.00-11.45 (Y01-F-50)
 
 ## Lecturers
 
-[Mr. Lukas Weber](https://twitter.com/lmwebr), final year PhD student, [IMLS](http://www.imls.uzh.ch/index.html), UZH  
+[Mr. Lukas Weber](https://github.com/lmweber), final year PhD student, [IMLS](http://www.imls.uzh.ch/index.html), UZH  
 
 [Dr. Hubert Rehrauer](http://www.fgcz.ch/the-center/people/rehrauer.html), Group Leader of Genome Informatics at [FGCZ](http://www.fgcz.ch/)  
 
