@@ -2,10 +2,10 @@
 Fall/Herbst-semester 2018
 
 ## Lectures
-Mondays 9.00-9.45 (tba), 10.00-10.45 (tba)
+Mondays 9.00-9.45 (Y34-J-01), 10.00-10.45 (Y34-J-01)
 
 ## Exercises
-Monday 11.00-11.45 (tba)
+Monday 11.00-11.45 (Y01-F-50)
 
 ## Lecturers
 
