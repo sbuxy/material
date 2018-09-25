@@ -37,3 +37,10 @@ isNorm = anno$TissueType == "norm"
 isSick = anno$TissueType == "sick"
 isAcute = anno$TissueType == "acute"
 ```
+
+## Notes
+
+* When clustering the samples. Please make sure that you cluster the columns, i.e. the distance matrix should be computed for the columns.
+* Since the expression values span a large dynamic range, do a log-transform of the values before plotting
+* For the heatmap use only the 500 genes with the hightest variance
+
