@@ -28,14 +28,14 @@ Monday 11.00-11.45 (Y01-F-50)
 | 08.10.2018  | Hubert | mapping  | Rsubread | | |
 | 15.10.2018  | Mark | limma + friends   | linear model simulation + design matrices | | |
 | 22.10.2018  | Hubert | RNA-seq quantification   | RSEM | | |
-| 29.10.2018  | Charlotte | hands-on session #1: RNA-seq  | FASTQC/Salmon/etc. | X | X |
+| 29.10.2018  | Charlotte | hands-on session #1: RNA-seq  | FASTQC/Salmon/etc. |  | X |
 | 05.11.2018  | Mark | edgeR+friends 1 | basic edgeR/voom | |  |
 | 12.11.2018  | Mark | edgeR+friends 2  | GLM/DEXSeq |  |  |
 | 19.11.2018  | Mark | single-cell dim. reduction + clustering; FDR  | conquer |  |  |
-| 26.11.2018  | Lukas | hands-on session #2: cytometry  | cytof null comparison | X | X |
+| 26.11.2018  | Lukas | hands-on session #2: cytometry  | cytof null comparison |  | X |
 | 03.12.2018  | Hubert | classification  | MLInterfaces |  |  |
 | 10.12.2018  | Mark | loose ends: HMM, EM, robustness   | segmentation, peak finding | | |    
-| 17.12.2018  | Mark | hands-on session #3: single-cell RNA-seq  | full scRNA-seq pipeline | X | X |
+| 17.12.2018  | Mark | hands-on session #3: single-cell RNA-seq  | full scRNA-seq pipeline |  | X |
 
 
 ## Useful Links
