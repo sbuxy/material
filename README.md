@@ -35,7 +35,7 @@ Monday 11.00-11.45 (Y01-F-50)
 | 26.11.2018  | Lukas | hands-on session #2: cytometry  | cytof null comparison |  | X |
 | 03.12.2018  | Hubert | classification  | MLInterfaces |  |  |
 | 10.12.2018  | Mark | loose ends: HMM, EM, robustness   | segmentation, peak finding | | |    
-| 17.12.2018  | Mark | hands-on session #3: single-cell RNA-seq  | full scRNA-seq pipeline | [STATISTICAL METHODS FOR THE ANALYSIS OF HIGH-THROUGHPUT METABOLOMICS DATA](https://www.sciencedirect.com/science/article/pii/S2001037014600520) (SB,ST) | X |
+| 17.12.2018  | Mark | hands-on session #3: single-cell RNA-seq  | full scRNA-seq pipeline | [Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing on JSTOR] (SB,ST) | X |
 
 
 ## Useful Links
